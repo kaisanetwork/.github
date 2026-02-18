@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/kaisanetwork/KaisaNetwork/main/KaisaNetworkBanner.png "Header")](https://kaisanetwork.net/)
+[![Header](KaisaNetworkBanner.png "Header")](https://kaisanetwork.net/)
 
 # Hi, folks!
 
